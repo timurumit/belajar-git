@@ -4,3 +4,5 @@ Gw udah bisa woi!
 Ini dari github.com - oleh gw sendiri
 
 Test fetch buat liat bedanya
+
+-- ini harusnya editan dari branch-rusak doang
